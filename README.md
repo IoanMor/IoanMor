@@ -1,32 +1,59 @@
-<h1 align="center">Приветствую</h1>
+<h1 align="center">👋 Приветствую </h1>
 
 <p align="center">
-  🌱 Java Junior | 
+  Java Junior Developer  🚀
 </p>
 
 ---
 
-### 🚀 О себе:
-- 🔭 Сейчас работаю над: [Pet-проект Telegram-бота](ссылка)
-- 🌱 Учусь: Java, Spring Boot, Kafka, Git
-- ⚡ Хочу: перейти в IT и зарабатывать удалённо
+###  🔭 Цель — перейти в IT и прокачиваться как бэкенд-разработчик
 
 ---
 
-### 🛠️ Стек:
+### ⚙️ Стек технологий:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=tesla&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge&logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Caffeine](https://img.shields.io/badge/Caffeine-7C4DFF?style=for-the-badge)
+![Rest API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
+### 📌 Pet-проект:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&layout=compact&theme=radical)
+#### [📬 Распределённая система уведомлений](https://github.com/IvanMorozov2000/project-bot-api/tree/master)
+
+Состоит из двух микросервисов:
+- **scrapper-api** — следит за обновлениями по подпискам:
+  - StackOverflow (новые ответы на вопросы)
+  - Акции (изменение стоимости)
+  - Использует Kafka для отправки событий
+- **telegram-bot** — Telegram-бот:
+  - Принимает команды от пользователей
+  - Отправляет уведомления о новых ответах и цене акций
+
+🛠️ Технологии: Spring Boot, Kafka, Telegram Bot API, PostgreSQL, Docker
 
 ---
 
-### 📫 Контакты:
-[Telegram](https://t.me/твойник) | [LinkedIn](ссылка) | [Почта](mailto:твояпочта@gmail.com)
+### 📊 GitHub статистика:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IoanMor&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoanMor&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+
+
+
