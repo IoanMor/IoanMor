@@ -40,19 +40,11 @@
   - Принимает команды от пользователей
   - Отправляет уведомления о новых ответах и цене акций
 
-🛠️ Технологии: Spring Boot, Kafka, Telegram Bot API, PostgreSQL, Docker
+
 
 ---
 
-### 📊 GitHub статистика:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IoanMor&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoanMor&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 
 
