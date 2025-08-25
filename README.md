@@ -22,7 +22,7 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Caffeine](https://img.shields.io/badge/Caffeine-7C4DFF?style=for-the-badge)
-![Rest API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
 
 
 ---
