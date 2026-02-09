@@ -16,19 +16,14 @@
 ---
 
 ### ⚙️ Технологический стек
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+Языки: Java, SQL
+Фреймворки: Spring Boot, Spring Security, Spring Data JPA, Spring MVC, Spring JDBC
+Базы данных: PostgreSQL, Flyway, H2
+Очереди и интеграции: Kafka, REST API
+Тестирование: JUnit, Mockito
+Инструменты и инфраструктура: Docker, Docker Compose, Prometheus, Grafana, Maven, Gradle, Git
+Метрики и мониторинг: Prometheus, Grafana
+Прочее: Lombok, MapStruct
 
 ---
 
