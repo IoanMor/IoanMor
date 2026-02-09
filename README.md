@@ -16,14 +16,44 @@
 ---
 
 ### ⚙️ Технологический стек
-Языки: Java, SQL
-Фреймворки: Spring Boot, Spring Security, Spring Data JPA, Spring MVC, Spring JDBC
-Базы данных: PostgreSQL, Flyway, H2
-Очереди и интеграции: Kafka, REST API
-Тестирование: JUnit, Mockito
-Инструменты и инфраструктура: Docker, Docker Compose, Prometheus, Grafana, Maven, Gradle, Git
-Метрики и мониторинг: Prometheus, Grafana
-Прочее: Lombok, MapStruct
+**Языки**
+- Java
+- SQL
+
+**Фреймворки**
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Spring MVC
+- Spring JDBC
+
+**Базы данных**
+- PostgreSQL
+- H2
+- Flyway
+
+**Очереди и интеграции**
+- Kafka
+- REST API
+
+**Тестирование**
+- JUnit
+- Mockito
+
+**Инструменты и инфраструктура**
+- Docker
+- Docker Compose
+- Maven
+- Gradle
+- Git
+
+**Метрики и мониторинг**
+- Prometheus
+- Grafana
+
+**Прочее**
+- Lombok
+- MapStruct
 
 ---
 
