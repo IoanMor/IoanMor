@@ -59,7 +59,7 @@
 
 ### 📌 Pet-проекты
 
-🔹 #### [Репозиторий проекта] [📬 Распределённая система уведомлений](https://github.com/IvanMorozov2000/project-bot-api/tree/master)
+#### 🔹[Репозиторий проекта] [📬 Распределённая система уведомлений](https://github.com/IvanMorozov2000/project-bot-api/tree/master)
 https://github.com/IoanMor/project-bot-api/tree/master (дублирующая ссылка)
 
 **> Цель: Проектирование архитектуры, настройка Kafka, реализация логики подписок, интеграция с Telegram Bot API, покрытие тестами.**
@@ -80,7 +80,7 @@ https://github.com/IoanMor/project-bot-api/tree/master (дублирующая �
  - Использование метрик, подключение grafana и prometeus.
 
 
-🔹 #### [Репозиторий проекта] [📄 File Parser ](https://github.com/IoanMor/parseFilesFromPTO/tree/main)
+#### 🔹[Репозиторий проекта] [📄 File Parser ](https://github.com/IoanMor/parseFilesFromPTO/tree/main)
 
 (https://github.com/IoanMor/parseFilesFromPTO/tree/main) (дублирующая ссылка)
 
@@ -102,7 +102,7 @@ https://github.com/IoanMor/project-bot-api/tree/master (дублирующая �
 *   **Lombok**, **SLFJ** для логирования.
 
    
-🔹 #### [Репозиторий проекта] [💳 Bank Cards Application](https://github.com/IvanMorozov2000/bank-cards-app](https://github.com/IoanMor/bankcard))
+#### 🔹[Репозиторий проекта] [💳 Bank Cards Application](https://github.com/IvanMorozov2000/bank-cards-app](https://github.com/IoanMor/bankcard))
 (https://github.com/IoanMor/bankcard) (дублирующая ссылка)
 
 **> Цель: Разработка монолитного приложения для управления банковскими картами с безопасной аутентификацией, переводами между картами и хранением данных пользователей.  
