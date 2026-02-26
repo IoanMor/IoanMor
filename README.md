@@ -1,4 +1,4 @@
-<h1 align="center">👋 Приветствую! </h1>
+<h1 align="center"> Приветствую! </h1>
 
 <p align="center">
   Java Junior Developer 
