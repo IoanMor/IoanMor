@@ -10,7 +10,6 @@
 - Образование:РТУ МИРЭА | Бизнес-аналитик.  
 - Карьера: Инженер ПТО (1 категории).
 - Два года изучаю Java и backend-разработку.  
-- Сделал несколько проектов с использованием Spring Boot, PostgreSQL, Kafka, Docker.  
 - Цель — развиваться как Java Backend Developer.
 
 ---
@@ -46,6 +45,10 @@
 - Maven
 - Gradle
 - Git
+- Apache POI 
+- Tabula 
+- Jsoup 
+- OpenCSV 
 
 **Метрики и мониторинг**
 - Prometheus
